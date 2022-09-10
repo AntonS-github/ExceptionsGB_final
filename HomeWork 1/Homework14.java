@@ -29,7 +29,4 @@ public class Homework14 {
         }
         return result;
     }
-    // if (numArr1 == null || numArr2 == null) {
-    // return result;
-    // }
 }
