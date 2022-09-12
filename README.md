@@ -15,3 +15,16 @@ Working with exceptions studying (with Java)
 3.  [Код задачи 3](https://github.com/AlexanderSibirko/ExceptionsGBCourse/blob/main/HomeWork%201/Homework13.java)
 
 4.  [Код задачи 4](https://github.com/AlexanderSibirko/ExceptionsGBCourse/blob/main/HomeWork%201/Homework14.java)
+
+
+
+# Домашнее задание №2
+![Домашнее задание2](./HomeWork%202/%D0%94%D0%97%202.png)
+
+1. [Код задачи 1](https://github.com/AlexanderSibirko/ExceptionsGBCourse/blob/main/HomeWork%202/Homework21.java)
+
+2. [Код задачи 2](https://github.com/AlexanderSibirko/ExceptionsGBCourse/blob/main/HomeWork%202/Homework22.java)
+
+3. [Код задачи 3](https://github.com/AlexanderSibirko/ExceptionsGBCourse/blob/main/HomeWork%202/Homework23.java)
+
+4. [Код задачи 4](https://github.com/AlexanderSibirko/ExceptionsGBCourse/blob/main/HomeWork%202/Homework24.java)
