@@ -24,7 +24,10 @@ Working with exceptions studying (with Java)
 1. [Код задачи 1](https://github.com/AlexanderSibirko/ExceptionsGBCourse/blob/main/HomeWork%202/Homework21.java)
 
 2. [Код задачи 2](https://github.com/AlexanderSibirko/ExceptionsGBCourse/blob/main/HomeWork%202/Homework22.java)
+Так как применяются массив, то кроме арифметики хорошо бы ещё отследить возможные проблеммы с массивом (такие как выход за границы массива). Ну и так как мы осущесвтляем действия которые требует наличия данных перехватываем так же null, (но по хорошему надо проверку делать и не допускать null'ы изначально?)
 
 3. [Код задачи 3](https://github.com/AlexanderSibirko/ExceptionsGBCourse/blob/main/HomeWork%202/Homework23.java)
+Зачем прокидывать throw Exception если мы о них уже сообщили и обработали (убираем). Меням очерёдность исключений и добавляем так как есть деление на всякий случай обработку деления на 0. Во внешней функции сложения зачем-то прокидываем Ошибку которой там обзароваться не может (так же просто защитились на случай null значений считаем их 0 - но этот вопрос нужно уточнять по "ТЗ" какое поведение ожидаемо)
+
 
 4. [Код задачи 4](https://github.com/AlexanderSibirko/ExceptionsGBCourse/blob/main/HomeWork%202/Homework24.java)
