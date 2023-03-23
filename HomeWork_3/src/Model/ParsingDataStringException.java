@@ -1,5 +1,6 @@
 package src.Model;
 
+
 public class ParsingDataStringException extends Exception {
     String message;
 

@@ -1,5 +1,6 @@
 package src.Model;
 
+
 public class BadFIOException extends Exception {
 
     String inputString;

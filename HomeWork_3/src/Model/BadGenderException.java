@@ -1,5 +1,6 @@
 package src.Model;
 
+
 public class BadGenderException extends Exception {
     String inputString;
 

@@ -1,5 +1,6 @@
 package src.View;
 
+
 import java.util.Scanner;
 
 public class ConsoleView implements View {

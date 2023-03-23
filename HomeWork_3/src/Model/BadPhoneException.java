@@ -1,5 +1,6 @@
 package src.Model;
 
+
 public class BadPhoneException extends Exception {
     String inputString;
 

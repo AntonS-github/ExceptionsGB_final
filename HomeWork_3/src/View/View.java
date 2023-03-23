@@ -1,5 +1,6 @@
 package src.View;
 
+
 public interface View {
     void printOutput(String message);
 
